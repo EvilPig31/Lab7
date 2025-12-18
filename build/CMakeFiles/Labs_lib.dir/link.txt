@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLabs_lib.a CMakeFiles/Labs_lib.dir/src/game_engine.cpp.o CMakeFiles/Labs_lib.dir/src/npc_factory.cpp.o CMakeFiles/Labs_lib.dir/src/npc.cpp.o CMakeFiles/Labs_lib.dir/src/observer.cpp.o CMakeFiles/Labs_lib.dir/src/visitor.cpp.o
+/usr/bin/ranlib libLabs_lib.a
